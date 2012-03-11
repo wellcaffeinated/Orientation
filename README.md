@@ -2,9 +2,11 @@
 
 Author: Jasper Palfree (jasper@wellcaffeinated.net)
 
+**Demo** site showing off these modules: http://wellcaffeinated.net/portfolio/device-orientation
+
 ## Requires
 
-* Implementation following the AMD pattern (eg: require.js)
+* Implementation following the AMD pattern (eg: [require.js](http://requirejs.org))
 * jQuery 1.7+
 
 ## Overview
