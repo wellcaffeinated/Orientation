@@ -2,7 +2,7 @@
 
 Author: Jasper Palfree (jasper@wellcaffeinated.net)
 
-**Demo** site showing off these modules: http://wellcaffeinated.net/portfolio/device-orientation
+**Demo** site showing off these modules: http://wellcaffeinated.net/demos/device-orientation
 
 ## Requires
 
